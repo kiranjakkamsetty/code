@@ -1,6 +1,6 @@
 # code
 class A{
+<br>
 main(){
-int a=10,b=20;
-int c=a+b;
-System.out.println(a+b);
+<br>
+write program..
